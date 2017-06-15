@@ -38,7 +38,7 @@ Use SQL queries to complete parts 1 - 4. Work with a friend, a group or on your 
 ### Part 3 - Update
 1. Oops! 'The Legend of Zelda: The Ocarina of Time' was actually made by 'Nintendo EAD'. Update the database to have the correct information.
 2. Nintendo 64 was released in 1995 but some of the games say they were released in 1995! Update the 1995 games to have the year of 1996
-  * *BONUS: Return the names of all the games you updated HINT: look up `RETURNING`*
+    * *BONUS: Return the names of all the games you updated HINT: look up `RETURNING`*
 
 ### Part 4 - Delete
 1. Remove all games made by 'Lucas Arts'.
@@ -47,10 +47,10 @@ Use SQL queries to complete parts 1 - 4. Work with a friend, a group or on your 
 ### BONUS - More Reading
 1. Show the average release year for games that were made by Rare or have the title 'Tony Hawks Pro Skater'
 2. Show the id and title and genre of all games that were either:
-  * Made before 1997,
-  * Made by Hal Laboratory,
-  * or, have the genre Platforming AND are made by Rare.
+    * Made before 1997,
+    * Made by Hal Laboratory,
+    * or, have the genre Platforming AND are made by Rare.
 3. Show the title and genre for all games that have 'Mario' in their name.
-  * *HINT: look up `LIKE`*
+    * *HINT: look up `LIKE`*
 4. Show the genre and the average year of each of the genres
-  * *HINT: look up `GROUP BY`*
+    * *HINT: look up `GROUP BY`*
