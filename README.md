@@ -21,7 +21,7 @@ Work in the `n64_psql.sql` file. Some SQL has been provided for you to create an
 
 ## Queries
 
-Use SQL queries to complete parts 1 - 4. Work with a friend, a group or on your own! We will be going over the solutions at **9:50**
+Use SQL queries to complete parts 1 - 4. 
 
 ### Part 1 - Create
 1. Add the the game 'F-Zero X', released in 1998, made by 'Nintendo EAD', and with the genre 'Racing'.
