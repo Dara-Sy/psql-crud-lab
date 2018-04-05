@@ -27,6 +27,11 @@ Use SQL queries to complete parts 1 - 4.
 1. Add the the game 'F-Zero X', released in 1998, made by 'Nintendo EAD', and with the genre 'Racing'.
 2. Add the the game 'The Legend of Zelda: The Ocarina of Time', released in 1998, made by 'Hudson Soft', and with the genre 'Action-Adventure'.
 
+
+
+INSERT INTO games VALUES (DEFAULT, 'F-Zero X', 1998, 'Nintendo EAD', 'Racing');
+INSERT INTO games VALUES (DEFAULT, 'The Legend of Zelda: The Ocarina of Time', 1998, 'Hudson Soft', 'Action-Adventure');
+
 ### Part 2 - Read
 1. Select the title of all games
 2. Show the title of each game made by 'Rare'.
