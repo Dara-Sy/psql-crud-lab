@@ -44,7 +44,7 @@ Use SQL queries to complete parts 1 - 4.
 1. Remove all games made by 'Lucas Arts'.
 2. Remove all games made in 1999 or after.
 
-### BONUS - More Reading
+### BONUS - 
 1. Show the average release year for games that were made by Rare or have the title 'Tony Hawks Pro Skater'
 2. Show the id and title and genre of all games that were either:
     * Made before 1997,
@@ -54,3 +54,9 @@ Use SQL queries to complete parts 1 - 4.
     * *HINT: look up `LIKE`*
 4. Show the genre and the average year of each of the genres
     * *HINT: look up `GROUP BY`*
+    
+    
+    
+ ## Submission
+
+Homework is due by **11:00 tonight**! Remember to work with each other and go to TAs when you need it, but follow the [guidelines](https://github.com/teikmeout/gracehopper) for queuing. Follow the normal [rules for homework submission], remember to include a link to your **repo**.
