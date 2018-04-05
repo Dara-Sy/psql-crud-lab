@@ -4,7 +4,7 @@
 
 ## PSQL and CRUD
 
-In today's morning exercise you will be using what you know about Postgres to implement CRUD functionality through a series of queries.
+You will be using what you know about Postgres to implement CRUD functionality through a series of queries.
 
 **What is CRUD?**
 
